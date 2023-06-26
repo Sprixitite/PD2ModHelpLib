@@ -1,0 +1,71 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/home/rory/.nuget/packages/": {},
+    "/home/rory/.local/share/godot/mono/GodotNuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/rory/Projects/pd2modzone/pd2modhelper/pd2modhelplib/pd2modhelplib.csproj",
+      "projectName": "pd2modhelplib",
+      "projectPath": "/home/rory/Projects/pd2modzone/pd2modhelper/pd2modhelplib/pd2modhelplib.csproj",
+      "packagesPath": "/home/rory/.nuget/packages/",
+      "outputPath": "/home/rory/Projects/pd2modzone/pd2modhelper/pd2modhelplib/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/home/rory/.local/share/godot/mono/GodotNuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/home/rory/.nuget/NuGet/NuGet.Config",
+        "/home/rory/.nuget/NuGet/config/Godot.Offline.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.410/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
